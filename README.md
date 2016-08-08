@@ -1,2 +1,2 @@
 # crypto_bits
-cryptography experiments
+cryptography experiments and implementations
